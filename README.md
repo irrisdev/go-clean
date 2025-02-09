@@ -10,11 +10,11 @@ This project aims to develop a robust system for scheduling and assigning cleani
 - Notifications:SMTP (Email), Telegram Bot API
 
 ## Features
-- Task Management: Define cleaning tasks for each room.
-- Recurring Scheduling: Set cleaning frequency (weekly, monthly, etc.).
-- User Assignments: Assign household members to tasks.
-- Due Date Tracking: See upcoming and overdue tasks.
-- Notifications: Get reminders via email, or Telegram.
+- [ ] Task Management: Define cleaning tasks for each room.
+- [ ] Recurring Scheduling: Set cleaning frequency (weekly, monthly, etc.).
+- [ ] User Assignments: Assign household members to tasks.
+- [ ] Due Date Tracking: See upcoming and overdue tasks.
+- [ ] Notifications: Get reminders via email, or Telegram.
 
 ## License
 
